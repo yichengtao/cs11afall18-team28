@@ -1,3 +1,3 @@
-Name: Yicheng
+Name: Yicheng Tao
 Email address: yichengtao@brandeis.edu
 Github ID: yichengtao
